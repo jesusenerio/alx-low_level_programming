@@ -4,9 +4,9 @@
 
 /**                                                                                                                             
 
- * main - prints the word we want                                                                                               
+ * main - prints                                                                                                                
 
- * puts: prints program                                                                                                         
+ * @str1: programming                                                                                                           
 
  * Return: Zero                                                                                                                 
 
@@ -16,7 +16,13 @@ int main(void)
 
 {                                                                                                                               
 
-        puts("\"Programming is like building a multilingual puzzle");                                                           
+        char str1[] = "\"Programming is like building a multilingual puzzle";                                                   
+
+                                                                                                                                
+
+        puts(str1);                                                                                                             
+
+                                                                                                                                
 
         return (0);                                                                                                             
 

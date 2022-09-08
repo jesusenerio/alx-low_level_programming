@@ -2,11 +2,23 @@
 
                                                                                                                                 
 
+                                                                                                                                
+
+                                                                                                                                
+
 int main() {                                                                                                                    
 
                                                                                                                                 
 
-        char str1[] = "programming is like building a multilingual puzzle";                                                     
+                                                                                                                                
+
+                                                                                                                                
+
+        char str1[] = ""Programming is like building a multilingual puzzle";                                                     
+
+                                                                                                                                
+
+                                                                                                                                
 
                                                                                                                                 
 
@@ -14,6 +26,10 @@ int main() {
 
                                                                                                                                 
 
-        return(0);                                                                                                              
+                                                                                                                                
 
-}  
+                                                                                                                                
+
+        return(0);
+
+} 

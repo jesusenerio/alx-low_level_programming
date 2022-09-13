@@ -13,7 +13,6 @@ void print_alphabet(void)
 	{
 		putchar(ch);
 	}
-	putchar('\n');
 }
 /**
  * main - this is main
@@ -21,7 +20,7 @@ void print_alphabet(void)
  */
 int main(void)
 {
-	print_alphabet();
+	putchar('\n');
 	return (0);
 }
 

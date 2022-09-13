@@ -12,8 +12,8 @@ void print_alphabet(void)
 	for (ch = 'a'; ch <= 'z'; ch++)
 	{
 		putchar(ch);
-		putchar('\n');
 	}
+	putchar('\n');
 }
 /**
  * main - this is main
@@ -24,3 +24,4 @@ int main(void)
 	print_alphabet();
 	return (0);
 }
+

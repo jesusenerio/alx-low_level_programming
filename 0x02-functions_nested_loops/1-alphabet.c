@@ -1,9 +1,17 @@
-#include <stdio.h>
 #include "main.h"
 /**
- * print_alphabet - this is a fuction that prints
+ * main - this is a fuction that prints
  * putchar: prints
- * Return: 0
+ * Return: void
+ */
+int main(void)
+{
+	print_alphabet();
+	return (0);
+}
+/**
+ * print_alphabet - this ia a function
+ * Return: void
  */
 void print_alphabet(void)
 {
@@ -13,14 +21,5 @@ void print_alphabet(void)
 	{
 		putchar(ch);
 	}
-}
-/**
- * main - this is main
- * Return: 0
- */
-int main(void)
-{
 	putchar('\n');
-	return (0);
 }
-

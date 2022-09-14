@@ -1,8 +1,10 @@
 #include "main.h"
-/*
- * print_alphabet - print out
- * Return: void
+
+/**
+ * print_alphabet - Entry point
+ * Return: 0
  */
+
 void print_alphabet(void)
 {
 	char c = 'a';

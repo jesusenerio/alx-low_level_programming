@@ -5,7 +5,7 @@
  * print_array - prints an array
  * @a: input string
  * @n: input n elements
- * Return: none 
+ * Return: none
  */
 void print_array(int *a, int n)
 {

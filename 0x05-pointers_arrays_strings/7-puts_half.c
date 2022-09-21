@@ -1,10 +1,11 @@
 #include "main.h"
-#include <stdio.h>
 
 /**
  * puts_half - prints second half of a string
  * @str: char array string type
+ * Description: If odd number of chars, print (length - 1) / 2
  */
+
 void puts_half(char *str)
 {
 	int i;

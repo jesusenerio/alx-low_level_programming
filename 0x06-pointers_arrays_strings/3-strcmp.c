@@ -4,7 +4,7 @@
 * _strcmp - function
 * @s1: first string
 * @s2: second string
-* Return: zero
+* Return: diff
 */
 int _strcmp(char *s1, char *s2)
 {

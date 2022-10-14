@@ -2,10 +2,11 @@
 #include "3-calc.h"
 
 /**
- * main - the main program
- * @argc: arg that count
- * @argv: arg that is array
- * Return: 0 always
+ * main - program that perfroms simple operations
+ * @argc: number of arguments
+ * @argv: array of arguments
+ *
+ * Return: Always 0 (Success)
  */
 int main(int argc, char *argv[])
 {
@@ -26,7 +27,7 @@ int main(int argc, char *argv[])
 
 	if (!func)
 	{
-		pritnf("Error\n");
+		printf("Error\n");
 		exit(99);
 	}
 

@@ -6,7 +6,7 @@
  * Return: sum of exponent
  */
 
-unsigned int sm_exp(unsigned int exp)
+unsigned int sum_exp(unsigned int exp)
 {
 	unsigned int sm_exp = 1;
 

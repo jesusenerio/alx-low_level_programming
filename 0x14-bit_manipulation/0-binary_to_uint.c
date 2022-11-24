@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * sm_exp - return sum of exponent
+ * sum_exp - return sum of exponent
  * @exp: exponent
  * Return: sum of exponent
  */

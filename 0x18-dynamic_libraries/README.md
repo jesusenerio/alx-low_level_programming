@@ -1,1 +1,1 @@
-This is the dynamic library project
+0x18-dynamic_libraries
